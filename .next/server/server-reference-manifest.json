@@ -1,5 +1,142 @@
 {
-  "node": {},
+  "node": {
+    "23ad8a5cd347b4cca91e7ab962cbafb98061b6d3": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/update/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/page": "rsc",
+        "app/(root)/profile/page": "rsc",
+        "app/(root)/events/[id]/update/page": "rsc"
+      }
+    },
+    "80d09871533f80b2b89151a03e88bd6b82a3afb9": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/update/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/page": "rsc",
+        "app/(root)/profile/page": "rsc",
+        "app/(root)/events/[id]/update/page": "rsc"
+      }
+    },
+    "ad303f79d1962ad41de77d8bf38c2038239f53f8": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/update/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/page": "rsc",
+        "app/(root)/profile/page": "rsc",
+        "app/(root)/events/[id]/update/page": "rsc"
+      }
+    },
+    "bff874576167d876e5cbb6c09ef5c22afd403686": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/update/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/page": "rsc",
+        "app/(root)/profile/page": "rsc",
+        "app/(root)/events/[id]/update/page": "rsc"
+      }
+    },
+    "c2606941b9e6ce5097ca8fbb3d5a45ace5dd4619": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/update/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/page": "rsc",
+        "app/(root)/profile/page": "rsc",
+        "app/(root)/events/[id]/update/page": "rsc"
+      }
+    },
+    "f0a23e8896961a67e887f5b2de7dcf0912cd95cb": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/update/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/page": "rsc",
+        "app/(root)/profile/page": "rsc",
+        "app/(root)/events/[id]/update/page": "rsc"
+      }
+    },
+    "fbffc6b90ce7a25fbc0369ebf858fd06236d5c78": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/[id]/update/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/page": "rsc",
+        "app/(root)/profile/page": "rsc",
+        "app/(root)/events/[id]/update/page": "rsc"
+      }
+    },
+    "cd38940ca01df9604bf222d21c40716c78ad5e98": {
+      "workers": {
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/[id]/update/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/page": "action-browser",
+        "app/(root)/events/[id]/update/page": "action-browser"
+      }
+    },
+    "dcec4f696cab4dbd6a747fdd8b48ae8b6d700771": {
+      "workers": {
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22updateEvent%22%2C%22deleteEvent%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22getEventById%22%2C%22getRelatedEventsByCategory%22%2C%22getEventsByUser%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/[id]/update/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fbiruk%2FDesktop%2FProjects%2FGtsawe%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/page": "action-browser",
+        "app/(root)/events/[id]/update/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "akXehSOZqW1yjr+Kz2qpKV6DNWtxDHt12TqBwjizhz4="
+  "encryptionKey": "K2Id0217rdWsah5fYFvM/DbdrXmN7H9QD0qxVp/aCB8="
 }
